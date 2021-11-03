@@ -1,0 +1,17 @@
+.welcome_letter{
+    font-size: 28px;
+}
+
+.text_above_input{
+    font-size: 28px;
+}
+
+#input_password
+{
+    width: 500px;
+    height: 50px;
+}
+
+.confirm_button{
+    font-size: 23px;
+}
